@@ -9,7 +9,7 @@
   
 - 💞️ I am available for Data Analyst and Business Intelligence roles. Kindly reach out to me via Linkedin and Twitter.
   
-- 📫 How to reach me: LinkedIn: @Nnenna Njoku, Twitter: @nnennanjoku_
+- 📫 How to reach me: LinkedIn: @Nnenna Njoku, Twitter: https://twitter.com/njokunnenna_
 
 <!---
 Nnennanjoku/Nnennanjoku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
